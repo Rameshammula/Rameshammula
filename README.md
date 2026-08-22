@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Ramesh Ammula 👋<br><br>### 🚀 Python & Django Developer | AI, FinTech & Web3<br>I build scalable backend systems, RAG engines, and real-world software applications.<br><br>---<br><br>### 🛠️ Tech Stack<br>- **Languages:** Python, JavaScript<br>- **Backend:** Django, Django REST Framework, Celery, Redis<br>- **AI / ML:** OpenAI API, LangChain, Vector Databases (pgvector/Pinecone)<br>- **Databases:** PostgreSQL, SQLite
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
