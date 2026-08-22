@@ -1,5 +1,147 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I’m a technology and digital professional focused on web development, WordPress, SEO, open-source software, and building practical real-world solutions.
+
+I’m actively developing my technical portfolio through GitHub projects, open-source contributions, software testing, documentation, and proof of work.
+
+🔭 What I’m Working On
+Building and maintaining real-world web applications
+Developing backend systems and REST APIs
+Building WordPress solutions and contributing to the ecosystem
+Creating search and knowledge-base functionality
+Strengthening my GitHub portfolio through practical projects
+Contributing to open-source software
+Writing technical documentation and improving developer workflows
+👨‍💻 Technical Skills
+
+Languages
+
+Python
+PHP
+JavaScript
+HTML5
+CSS3
+SQL
+
+Frameworks & Platforms
+
+Django
+Django REST Framework
+WordPress
+REST APIs
+Content Management Systems
+
+Backend & Databases
+
+Backend Development
+API Development
+PostgreSQL
+Database Design
+Django ORM
+Query Optimization
+
+Development & Engineering
+
+Git
+GitHub
+GitHub Actions
+Version Control
+Software Architecture
+Debugging
+Code Review
+Testing
+Unit Testing
+API Testing
+Automated Testing
+Test-Driven Development
+Performance Optimization
+Technical Documentation
+
+WordPress
+
+WordPress Development
+WordPress.org
+WordPress Plugins
+WordPress Themes
+WordPress Administration
+WordPress Troubleshooting
+WordPress Testing
+WordPress Performance
+WordPress Accessibility
+Open-Source Contribution
+
+SEO & Digital
+
+Search Engine Optimization (SEO)
+Technical SEO
+On-Page SEO
+Off-Page SEO
+Keyword Research
+Search Intent
+Organic Traffic Growth
+Website Optimization
+Google Search
+Content Optimization
+SEO Audits
+Website Performance
+Digital Strategy
+
+Web Development
+
+Frontend Development
+Backend Development
+Full-Stack Development
+Responsive Web Design
+Web Applications
+API Integration
+Website Performance
+Accessibility
+Cross-Browser Compatibility
+
+Tools & Workflow
+
+GitHub
+Git
+Linux
+Command Line
+VS Code
+GitHub Actions
+CI/CD
+Issue Tracking
+Pull Requests
+Technical Documentation
+👯 Looking to Collaborate On
+Open-source projects
+WordPress projects
+Python/Django applications
+REST API projects
+Web development
+Developer tools
+Search and knowledge-management systems
+Software testing and quality engineering
+Projects focused on accessibility, performance, and usability
+🌱 Currently Learning
+Advanced Python
+Django & Django REST Framework
+Backend architecture
+API design
+Database optimization
+Automated testing
+CI/CD
+Open-source development practices
+Software engineering best practices
+💬 Ask Me About
+
+WordPress • SEO • GitHub • Open Source • Python • Django • REST APIs • Web Development • Technical SEO • Website Optimization • Testing • Git • Backend Development
+
+🎯 Professional Focus
+
+My goal is to build a strong career through real-world engineering work, open-source contributions, continuous learning, and demonstrable proof of work.
+
+I believe skills are best demonstrated through what you build, contribute, test, document, and ship.
+
+⚡ My Philosophy
+
+Build it. Test it. Document it. Contribute it. Improve it. Let the work speak. 🚀n fact
 
 
 ## 🌐 Socials:
